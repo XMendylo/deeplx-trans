@@ -1,11 +1,11 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "account_id": "80b9f06ce270409eba632ed766bbbce6",
-  "analytics_engine_datasets": [
-    {
-      "binding": "ANALYTICS"
-    }
-  ],
+ // "analytics_engine_datasets": [
+ //   {
+ //    "binding": "ANALYTICS"
+ //   }
+ // ],
   "compatibility_date": "2025-07-19",
   "kv_namespaces": [
     {
